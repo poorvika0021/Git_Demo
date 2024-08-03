@@ -1,2 +1,3 @@
-AAAAAA BBBBBB CCCCC DDDDD EEEEE FFFFF GGGGG HHHHH
 Making some changes in the file1 to demonstarte git diff single file
+
+
