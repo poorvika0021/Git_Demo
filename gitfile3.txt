@@ -4,3 +4,11 @@ Cherry
 DOg
 Elephant
 Fish
+Goat
+Horse
+Ice
+Jackel
+Lemon
+MOnkey
+Orange
+Parrot
