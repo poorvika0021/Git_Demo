@@ -12,3 +12,5 @@ Lemon
 MOnkey
 Orange
 Parrot
+Queen 
+Rabbit
